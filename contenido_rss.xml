@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+	<title>Hasta los webs</title>
+	<link>https://luisof1984.neocities.org/proyecto/index.html</link>
+	<description>Este sitio web ofrece noticias en plan humorísticas y satíricas en el sentido de
+	entretener y reír al lector</description>
+	<language>es-ES</language>
+
+	<item>
+		<title>Noticias</title>
+		<link>https://luisof1984.neocities.org/proyecto/index.html</link>
+		<description>Una sección de noticias de contenido surrealista y humorístico con la intención
+			de informar a la vez que entretener al lector</description>
+		<category>Comedia</category>
+		<guid>https://luisof1984.neocities.org/proyecto/index.html</guid>
+	</item>
+	
+	<item>
+		<title>Imágenes</title>
+		<link>https://luisof1984.neocities.org/proyecto/imagenes.html</link>
+		<description>Contiene una serie de imágenes e información de las misma con motivo de que el
+		lector, uan vez leído la descripción y visto las imágenes, se ría a carcajadas</description>
+		<category>Comedia</category>
+		<guid>https://luisof1984.neocities.org/proyecto/imagenes.html</guid>
+	</item>
+	
+	<item>
+		<title>Vídeos</title>
+		<link>https://luisof1984.neocities.org/proyecto/videos.html</link>
+		<description>COntenido audio visual con motivo de quien visualice cualquier vidio del este
+		sitio, pueda estar informado a la vez que se entretenga riendose un poco de ellos</description>
+		<category>Comedia</category>
+		<guid>https://luisof1984.neocities.org/proyecto/videos.html</guid>
+	</item>
+	
+
+</channel>
+</rss>			

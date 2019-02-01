@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Hasta los webs</title>
+<subtitle>Este sitio web ofrece noticias en plan humorísticas y satíricas en el sentido de	entretener y reír al lector</subtitle>
+<link href="https://luisof1984.neocities.org/proyecto/index.html"/>
+<id>https://luisof1984.neocities.org/proyecto/index.html</id>
+<updated>2018-02-19T13:54:26Z</updated>
+<author>
+<name>Luis Ortega</name>
+</author>
+<entry>
+<title>Noticias</title>
+<link href="https://luisof1984.neocities.org/proyecto/index.html"/>
+<id>https://luisof1984.neocities.org/proyecto/index.html</id>
+<updated>2018-03-19T04:10:00Z</updated>
+<summary>Una sección de noticias de contenido surrealista y humorístico con la intención
+de informar a la vez que entretener al lector</summary>
+</entry>
+<entry>
+<title>Imágenes</title>
+<link href="https://luisof1984.neocities.org/proyecto/imagenes.html"/>
+<id>https://luisof1984.neocities.org/proyecto/imagenes.html</id>
+<updated>2018-03-19T13:52:26Z</updated>
+<summary>Contiene una serie de imágenes e información de las misma con motivo de que el
+lector, uan vez leído la descripción y visto las imágenes, se ría a carcajadas</summary>
+</entry>
+<entry>
+<title>Vídeos</title>
+<link href="https://luisof1984.neocities.org/proyecto/videos.html"/>
+<id>https://luisof1984.neocities.org/proyecto/videos.html</id>
+<updated>2018-01-19T13:54:26Z</updated>
+<summary>COntenido audio visual con motivo de quien visualice cualquier vidio del este
+sitio, pueda estar informado a la vez que se entretenga riendose un poco de ellos</summary>
+</entry>
+</feed>
